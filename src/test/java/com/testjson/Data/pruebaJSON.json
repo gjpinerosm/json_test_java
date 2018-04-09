@@ -1,0 +1,52 @@
+[
+    {
+        "id": "00010005000000227534",
+        "type": "CSAT",
+        "name": "SUMA Mastercard Básica",
+        "number": "*5076",
+        "status": "1",
+        "availableBalance": 989982,
+        "block": 0,
+        "purse": 0,
+        "relation": "NA",
+        "props": {
+            "nextCutoffDate": "2018/04/11",
+            "causedInterest": 0,
+            "dueDate": "2018/04/06",
+            "icon": "suma",
+            "usedCredit": 9,
+            "minimumPaymentDue": 0,
+            "lastAmount": 187389,
+            "availableAdvances": 329994,
+            "pciNumber": "0001000500000022753400001000000000001",
+            "pointsExpiringSoon": 0,
+            "directDebitIndicator": "N",
+            "iconExtension": ".png",
+            "totalPayment": 0,
+            "pointsExpiryDate": "",
+            "iconCreditCard": "SUMA_Mastercard_Basica.png",
+            "overdue": 0,
+            "cutOffDate": "2018/04/04",
+            "lastPaymentDate": "2017/11/10",
+            "overdueDays": 0,
+            "brand": "UNKNOWN",
+            "isBlockable": true,
+            "totalAccumulatedPoints": 0,
+            "closeToDue": false,
+            "images": {
+                "iconExtension": ".png",
+                "iconCreditCard": "SUMA_Mastercard_Basica.png",
+                "icon": "suma",
+                "brand": "mastercard.png"
+            },
+            "blockStatus": 0,
+            "productSignature": "F2LVRuSbR-s1fVIYLN_Z7BQg356EgJVQRDrKvj8-CQ4",
+            "limitPurchase": 1099980,
+            "pciSignature": "mjMtdkToxa6QoWBGgwMydj36F419eNgGRqAJF-KnT_A",
+            "totalQuota": 1099980,
+            "availablePurchase": 989982,
+            "shortName": "Mastercard Básica",
+            "cardNumber": "512577******5076"
+        }
+    }
+]
